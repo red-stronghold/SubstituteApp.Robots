@@ -1,0 +1,5 @@
+C:\Development\CloudNine.Utilities\Substitute.Robots\Substitute.Robots\bin\Substitute.Robots.dll
+C:\Development\CloudNine.Utilities\Substitute.Robots\Substitute.Robots\bin\Substitute.Robots.pdb
+C:\Development\CloudNine.Utilities\Substitute.Robots\Substitute.Robots\obj\Release\ResolveAssemblyReference.cache
+C:\Development\CloudNine.Utilities\Substitute.Robots\Substitute.Robots\obj\Release\Substitute.Robots.dll
+C:\Development\CloudNine.Utilities\Substitute.Robots\Substitute.Robots\obj\Release\Substitute.Robots.pdb

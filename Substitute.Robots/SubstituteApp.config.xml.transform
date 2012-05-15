@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<substitutes>
+  <substitute name="robots.txt">
+    <templatefile>robots.txt.txt</templatefile>
+    <substitutefile>robots.txt.substitute.xml</substitutefile>
+    <resultfile>robots.txt</resultfile>
+  </substitute>
+</substitutes>

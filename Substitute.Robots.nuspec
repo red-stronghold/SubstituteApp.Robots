@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Substitute.Robots</id>    
+    <title>Substitute.Robots</title>
+    <version>1.0.5</version>
+    <authors>Johan Redborg</authors>
+    <description>Basic setup for robots.txt. Search engine help file.</description>
+    <dependencies>
+      <dependency id="SubstituteApp" version="2.1.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="build\*.txt.txt" target="content" />
+    <file src="build\*.xml" target="content" />
+    <file src="build\*.transform" target="content" />
+    <file src="build\install.ps1" target="tools" />
+  </files>
+</package>

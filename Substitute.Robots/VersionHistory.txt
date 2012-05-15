@@ -1,0 +1,17 @@
+﻿Version History
+--------------------------------------------------------------------------------
+
+Version		Change made by		Date			Description
+--------------------------------------------------------------------------------
+1.0.1		johan.redborg		2012-03-28		Substitute.Robots created
+												robots.txt.txt added
+												NuGet support added
+--------------------------------------------------------------------------------
+1.0.2-1.0.4	johan.redborg		2012-03-28		Test versions, not functional
+--------------------------------------------------------------------------------
+1.0.5		johan.redborg		2012-03-28		Substitute.Robots now creates
+												a robots.txt file if it does
+												not exist
+												Sets substitute-file as 
+												DependentUpon template-file
+--------------------------------------------------------------------------------

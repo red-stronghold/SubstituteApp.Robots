@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<substitution>
+  <configuration name="Debug">
+    <item key="#useragent#">User-agent: *</item>
+    <item key="#disallow#">Disallow: /</item>
+    <item key="#sitemap#"></item>
+  </configuration>
+  <configuration name="Release" note="MUST BE MODIFIED BEFORE RELEASE">
+    <item key="#useragent#">User-agent: *</item>
+    <item key="#disallow#"></item>
+    <item key="#sitemap#">Sitemap: http://yourdomain/sitemappath </item>
+  </configuration>
+</substitution>
