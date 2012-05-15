@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>Substitute.Robots</id>    
-    <title>Substitute.Robots</title>
+    <id>SubstituteApp.Robots</id>    
+    <title>SubstituteApp.Robots</title>
     <version>1.0.5</version>
     <authors>Johan Redborg</authors>
     <description>Basic setup for robots.txt. Search engine help file.</description>

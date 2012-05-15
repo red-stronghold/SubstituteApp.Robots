@@ -1,28 +1,20 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substitute.Robots", "Substitute.Robots\Substitute.Robots.csproj", "{470C8043-00CD-4C8C-9AEF-BCE337635F9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubstituteApp.Robots", "SubstituteApp.Robots\SubstituteApp.Robots.csproj", "{470C8043-00CD-4C8C-9AEF-BCE337635F9E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build script", "Build script", "{38A9A918-C7C0-4AC6-8410-0BC1FC3D1080}"
 	ProjectSection(SolutionItems) = preProject
+		build.bat = build.bat
 		build.boo = build.boo
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet", "NuGet", "{357A2682-B76C-4D0B-9E35-9E2F4C89F9DC}"
 	ProjectSection(SolutionItems) = preProject
-		Substitute.Robots.nuspec = Substitute.Robots.nuspec
+		SubstituteApp.Robots.nuspec = SubstituteApp.Robots.nuspec
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://cn-tfs:8080/tfs/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = Substitute.Robots\\Substitute.Robots.csproj
-		SccProjectName1 = Substitute.Robots
-		SccLocalPath1 = Substitute.Robots
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
