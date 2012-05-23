@@ -3,11 +3,14 @@
   <metadata>
     <id>SubstituteApp.Robots</id>    
     <title>SubstituteApp.Robots</title>
-    <version>1.0.5</version>
+    <version>1.0.6</version>
     <authors>Johan Redborg</authors>
+    <projectUrl>http://red-stronghold.github.com/</projectUrl>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.html</licenseUrl>
     <description>Basic setup for robots.txt. Search engine help file.</description>
+    <releaseNotes>Updated Project site link and License link, no code changes.</releaseNotes>
     <dependencies>
-      <dependency id="SubstituteApp" version="2.1.2" />
+      <dependency id="SubstituteApp" version="2.1.3" />
     </dependencies>
   </metadata>
   <files>

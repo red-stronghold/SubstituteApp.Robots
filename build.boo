@@ -27,7 +27,7 @@ target nuget_pack:
     exec("Libraries/Phantom/lib/nuget/NuGet.exe", "pack ${nuspecfile} /o ${nuget_folder}")
 
 target nuget_push, (nuget_pack):
-    exec("Libraries/Phantom/lib/nuget/NuGet.exe", "push ${nuget_folder}SubstituteApp.Robots.1.0.5.nupkg")
+    exec("Libraries/Phantom/lib/nuget/NuGet.exe", "push ${nuget_folder}SubstituteApp.Robots.1.0.6.nupkg")
 
 
 target prepare_folders:
